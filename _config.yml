@@ -1,0 +1,28 @@
+name: Bodyshop Revolution
+favicon: null
+layout_spectrum: 0.9720719149336219
+typography_spectrum: 0.508759951684624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1840012059547007
+  lightness: 0.4883040697313845
+  saturation: 0.03666764125227928
+  rhythmicContrast: 0.23801553226076066
+purpose: []
